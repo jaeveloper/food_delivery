@@ -1,4 +1,0 @@
-#Wed Nov 13 11:08:04 WAT 2019
-base.0=C\:\\Users\\HP\\food_delivery\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
-path.0=classes.dex
-renamed.0=classes.dex
